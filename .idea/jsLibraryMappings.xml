@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{@types/expect.js, @types/express, @types/mocha, @types/mongodb, @types/mongoose, @types/node, @types/npm, @types/supertest}" />
+    <file url="PROJECT" libraries="{@types/expect.js, @types/express, @types/jest, @types/mocha, @types/mongodb, @types/mongoose, @types/node, @types/npm, @types/supertest}" />
   </component>
 </project>

@@ -12,5 +12,6 @@
     <orderEntry type="library" name="@types/mocha" level="application" />
     <orderEntry type="library" name="@types/expect.js" level="application" />
     <orderEntry type="library" name="@types/supertest" level="application" />
+    <orderEntry type="library" name="@types/jest" level="application" />
   </component>
 </module>
